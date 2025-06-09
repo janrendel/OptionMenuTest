@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BasicWidget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TabHostTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/ReservationTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/ShowPetPictures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/SpringbootProject/BookMarket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/SpringbootProject/FristSpringboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/SpringbootProjects/Chapter05Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java2/WidgetTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simpleBrower" vcs="Git" />
+  </component>
+</project>
